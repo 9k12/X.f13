@@ -5,6 +5,7 @@
 // @version      1
 // @author       Fusion
 // @match        *://*.mope.io/*
+// @downloadurl https://github.com/9k12/X.f13/blob/main/modpack
 // @grant        unsafeWindow
 // @icon         https://files.catbox.moe/a4oov6.gif
 // @run-at       document-idle
